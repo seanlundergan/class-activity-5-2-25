@@ -7,6 +7,3 @@ Today we are curating individual csv files with coordinates for different langua
 - Chapacuran
 - Austroasiatic
 - Atlantic-Congo
-  
-
-
